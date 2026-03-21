@@ -1,0 +1,8 @@
+python-dotenv
+SpeechRecognition
+pyttsx3
+google-genai
+gTTS
+playsound
+tk
+Add requirements file
