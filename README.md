@@ -98,3 +98,15 @@ User Interface
 The full implementation is maintained in a private repository to protect intellectual property.
 
 Access may be granted to recruiters, collaborators, or technical reviewers upon request.
+## Project Evolution
+
+Lingo was developed through multiple iterations.
+
+V1 – basic terminal AI assistant  
+V5 – improved prompt structure  
+V8 – voice processing improvements  
+V12 – full multilingual AI assistant with GUI
+
+The original prototype can be found in:
+
+/lingo_v1
