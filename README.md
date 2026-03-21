@@ -110,3 +110,8 @@ V12 – full multilingual AI assistant with GUI
 The original prototype can be found in:
 
 /lingo_v1
+## Installation
+
+Clone the repository and install dependencies.
+
+pip install -r requirements.txt
