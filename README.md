@@ -11,6 +11,9 @@ Below are visual snapshots of the application interface and functionality:
 ## Demo Preview
 
 ![Interface](docs/demo/screenshots/interface.png)
+![Interface 1](docs/demo/screenshots/interface1.jpg)
+![Interface 2](docs/demo/screenshots/interface2.jpg)
+![Interface 3](docs/demo/screenshots/interface3.jpg)
 
 
 ---
