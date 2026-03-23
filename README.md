@@ -8,10 +8,12 @@ AI Multilingual Voice Assistant built with Python and Gemini API
 
 Below are visual snapshots of the application interface and functionality:
 
-![Interface](assets/interface.png)
-![Translation Mode](assets/translation.png)
-![Conversational Input](assets/input.png)
-![AI Response](assets/response.png)
+## Demo Preview
+
+![Interface](docs/demo/screenshots/interface.png)
+![Translation Mode](docs/demo/screenshots/translation_mode.png)
+![Conversational Input](docs/demo/screenshots/input.png)
+![AI Response](docs/demo/screenshots/response.png)
 
 ---
 
