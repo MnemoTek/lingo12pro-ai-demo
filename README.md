@@ -11,9 +11,7 @@ Below are visual snapshots of the application interface and functionality:
 ## Demo Preview
 
 ![Interface](docs/demo/screenshots/interface.png)
-![Translation Mode](docs/demo/screenshots/translation_mode.png)
-![Conversational Input](docs/demo/screenshots/input.png)
-![AI Response](docs/demo/screenshots/response.png)
+
 
 ---
 
